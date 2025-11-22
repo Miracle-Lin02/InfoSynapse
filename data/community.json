@@ -1,0 +1,21 @@
+{
+  "threads": [
+    {
+      "id": "c2939889-96ac-4370-827d-aa490e606016",
+      "title": "test",
+      "created_by": "miracle",
+      "created_by_name": "miracle",
+      "created_at": "2025-11-20T14:28:54",
+      "posts": [
+        {
+          "id": "a73ba93d-2c37-4ee5-b4aa-207d493f4bff",
+          "author": "miracle",
+          "author_name": "miracle",
+          "content": "test",
+          "time": "2025-11-20T14:28:54"
+        }
+      ],
+      "category": "其他"
+    }
+  ]
+}

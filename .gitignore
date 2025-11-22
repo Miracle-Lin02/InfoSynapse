@@ -1,0 +1,9 @@
+.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+.ipynb_checkpoints/infosynapse_backup.py
+*.bak.*
+data/*.bak.*
