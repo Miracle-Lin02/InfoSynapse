@@ -1,0 +1,54 @@
+{
+  "miracle": {
+    "bio": "喜欢计算机",
+    "major": "通信工程",
+    "stage": "大二",
+    "target_career": "算法工程师",
+    "target_direction": "AI 研究",
+    "interests": [
+      "机器学习",
+      "区块链",
+      "计算机视觉"
+    ],
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "starred_repos": [
+      {
+        "full_name": "codecrafters-io/build-your-own-x",
+        "html_url": "https://github.com/codecrafters-io/build-your-own-x",
+        "description": "",
+        "language": "",
+        "stargazers_count": 0
+      }
+    ],
+    "finished_repos": [
+      {
+        "full_name": "codecrafters-io/build-your-own-x",
+        "html_url": "https://github.com/codecrafters-io/build-your-own-x",
+        "description": "",
+        "language": "",
+        "stargazers_count": 0
+      }
+    ],
+    "learning_plan": [
+      {
+        "id": "github:codecrafters-io/build-your-own-x",
+        "name": "codecrafters-io/build-your-own-x",
+        "source": "GitHub",
+        "type": "github",
+        "status": "done"
+      },
+      {
+        "id": "github:huggingface/transformers",
+        "name": "huggingface/transformers",
+        "source": "GitHub",
+        "type": "github",
+        "status": "todo"
+      }
+    ],
+    "updated_at": "2025-11-21 08:53:40"
+  }
+}

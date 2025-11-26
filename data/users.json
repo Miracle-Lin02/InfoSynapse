@@ -1,0 +1,10 @@
+[
+  {
+    "username": "miracle",
+    "display_name": "miracle",
+    "salt": "54b7c2cf13e4b483f7cc2b74a85f93c9",
+    "pw_hash": "2adcebe32487a77f22303693000d36fff0f4cabfd98f021589f8a5285bffc331",
+    "role": "user",
+    "created_at": "2025-11-20T14:26:30"
+  }
+]

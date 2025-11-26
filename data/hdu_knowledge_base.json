@@ -1,0 +1,233 @@
+{
+  "courses": {
+    "计算机": [
+      {
+        "code": "CS101",
+        "name": "概率论与数理统计-郦钦龙",
+        "level": "基础",
+        "prereq": "",
+        "link": "",
+        "outline": "",
+        "reviews": []
+      }
+    ],
+    "通信工程": [
+      {
+        "code": "CS102",
+        "name": "信号与系统-郑长亮",
+        "level": "基础",
+        "prereq": "",
+        "link": "",
+        "outline": "",
+        "reviews": []
+      }
+    ],
+    "思政与通识": [
+      {
+        "code": "SZ101",
+        "name": "人工智能伦理与社会责任",
+        "level": "价值引领类",
+        "prereq": "",
+        "link": "",
+        "outline": "探讨人工智能技术发展中的伦理问题，培养技术向善的价值观",
+        "reviews": [],
+        "ideological": true
+      },
+      {
+        "code": "SZ102",
+        "name": "网络安全法律法规",
+        "level": "价值引领类",
+        "prereq": "",
+        "link": "",
+        "outline": "学习网络安全相关法律法规，培养网络空间安全意识和法律意识",
+        "reviews": [],
+        "ideological": true
+      },
+      {
+        "code": "SZ103",
+        "name": "科学家精神与创新文化",
+        "level": "价值引领类",
+        "prereq": "",
+        "link": "",
+        "outline": "学习老一辈科学家的奋斗精神，培养科研报国情怀",
+        "reviews": [],
+        "ideological": true
+      }
+    ]
+  },
+  "advisors": [
+    {
+      "name": "郑长亮",
+      "department": "通信工程学院",
+      "research": "无线通信",
+      "homepage": "https://faculty.hdu.edu.cn/txgxxy/zzl2/main.htm",
+      "reviews": [],
+      "national_projects": true,
+      "national_projects_info": "参与国家自然科学基金重点项目、国家科技攻关项目"
+    },
+    {
+      "name": "成田",
+      "department": "通信工程学院",
+      "research": "党的建设",
+      "homepage": "https://faculty.hdu.edu.cn/txgxxy/ct2/main.htm",
+      "reviews": [],
+      "national_projects": false
+    },
+    {
+      "name": "冯维",
+      "department": "通信工程学院",
+      "research": "无线通信网络、计算机网络",
+      "homepage": "https://faculty.hdu.edu.cn/txgxxy/fw/main.htm",
+      "reviews": [],
+      "national_projects": false
+    },
+    {
+      "name": "何美霖",
+      "department": "通信工程学院",
+      "research": "NOMA、多速率编码",
+      "homepage": "https://faculty.hdu.edu.cn/txgxxy/hml/main.htm",
+      "reviews": [],
+      "national_projects": true,
+      "national_projects_info": "参与国家自然科学基金重点项目、国家科技攻关项目"
+    }
+  ],
+  "practice": [
+    {
+      "name": "杭州电子科技大学“华图杯”第十六届大学生职业规划大赛",
+      "type": "竞赛",
+      "desc": "",
+      "link": "https://i.hdu.edu.cn/mnews/_s2/ba/ec/c16a47852/page.psp"
+    },
+    {
+      "name": "杭州电子科技大学第十一届大学生机器人竞赛RoboMaster对抗专项赛",
+      "type": "竞赛",
+      "desc": "",
+      "link": "https://jwc.hdu.edu.cn/2025/1020/c13482a286711/page.htm"
+    },
+    {
+      "name": "杭州电子科技大学第二十届大学生机械设计竞赛暨浙江省第二十三届大学生机械设计竞赛",
+      "type": "竞赛",
+      "desc": "",
+      "link": "https://jwc.hdu.edu.cn/2025/1110/c13482a287364/page.htm"
+    }
+  ],
+  "jds": [
+    {
+      "company": "海康威视",
+      "position": "测试工程师",
+      "jd": "熟悉Python自动化测试/测试用例设计/性能测试",
+      "skills": [
+        "Python",
+        "自动化测试",
+        "接口测试"
+      ],
+      "link": "https://www.hdu.edu.cn/job/hikvision_test"
+    },
+    {
+      "company": "恒生电子",
+      "position": "后端开发",
+      "jd": "熟悉Java/Python/分布式系统/数据库优化",
+      "skills": [
+        "Java",
+        "分布式",
+        "MySQL"
+      ],
+      "link": "https://www.hdu.edu.cn/job/hundsun_backend"
+    },
+    {
+      "company": "华为",
+      "position": "算法工程师",
+      "jd": "掌握算法与数据结构/深度学习框架/模型优化经验",
+      "skills": [
+        "算法",
+        "PyTorch",
+        "深度学习"
+      ],
+      "link": "https://www.hdu.edu.cn/job/huawei_algo"
+    }
+  ],
+  "alumni_experiences": {
+    "海康威视_测试工程师": [
+      "常见笔试：基础编程题（字符串/数组/树）+ 逻辑推理题。",
+      "面试侧重：自动化测试框架设计、接口联调经验、CI/CD流程理解。",
+      "建议准备：Python脚本能力，selenium/pytest基础，典型测试场景案例。"
+    ],
+    "恒生电子_后端开发": [
+      "常见笔试：Java基础、数据库题目（索引/优化）、分布式系统基础题。",
+      "面试侧重：高并发场景设计、MySQL/Redis优化、系统架构能力。",
+      "建议准备：多道系统设计题、面试中能给出性能优化思路。"
+    ]
+  },
+  "templates": {
+    "course_selection": "建议按基础 -> 核心 -> 拓展的顺序选课。优先完成 C 语言/数据结构/操作系统/计算机网络 等核心课程。",
+    "hikvision_test_skills": "Python 自动化测试、接口测试、性能测试、测试用例设计与 CI/CD。",
+    "dachuang_apply": "准备项目计划书、导师签字、经费预算、成果预期，按大创系统流程提交。"
+  },
+  "alumni": [
+    {
+      "id": "e246fa3e-ea2f-4636-96c7-87b02b9aef51",
+      "title": "投身航天科技，逐梦星辰大海",
+      "field": "航天科技",
+      "name": "李明（化名）",
+      "year": "2015届",
+      "major": "电子信息专业",
+      "content": "杭电2015届电子信息专业校友李明（化名），毕业后加入中国航天科技集团，参与北斗卫星导航系统研发工作。从基层技术岗做起，潜心钻研卫星通信技术，现已成长为项目技术骨干。他说：能为国家航天事业贡献力量，是我最大的荣耀。"
+    },
+    {
+      "id": "0fb09bc4-a528-41b3-a6b3-79b3d79adea6",
+      "title": "扎根基层，服务乡村振兴",
+      "field": "乡村振兴",
+      "name": "张华（化名）",
+      "year": "2017届",
+      "major": "计算机专业",
+      "content": "杭电2017届计算机专业校友张华（化名），选择回到家乡参与数字乡村建设，运用大数据和物联网技术帮助农村实现智慧农业升级。三年时间，她带领团队帮助当地农产品销售额增长300%，用科技助力乡村振兴。"
+    },
+    {
+      "id": "7c7df298-6e16-4723-b9c7-2d47afbf2889",
+      "title": "攻坚芯片技术，突破卡脖子难题",
+      "field": "芯片自主",
+      "name": "王强（化名）",
+      "year": "2016届",
+      "major": "微电子专业",
+      "content": "杭电2016届微电子专业校友王强（化名），加入国内某芯片设计公司，专注于高性能处理器研发。面对国外技术封锁，他和团队夜以继日攻关，终于突破关键技术瓶颈，为国产芯片自主可控贡献了智慧。"
+    }
+  ],
+  "pending_reviews": [],
+  "moderation_log": [
+    {
+      "pending_id": "c9b61d0b-0878-4027-b870-3301f67dea24",
+      "action": "approved",
+      "reason": "",
+      "time": "2025-11-21T02:07:16",
+      "item": {
+        "id": "c9b61d0b-0878-4027-b870-3301f67dea24",
+        "target_type": "advisor",
+        "target_id": "周教授",
+        "reviewer": "美女",
+        "rating": 5,
+        "comment": "好",
+        "time": "2025-11-21T02:06:47",
+        "status": "pending",
+        "submitted_via": "web"
+      },
+      "admin_user": "admin"
+    },
+    {
+      "pending_id": "4c96a977-631f-4674-8a65-b35340d85758",
+      "action": "rejected",
+      "reason": "颜值不能当饭吃",
+      "time": "2025-11-20T21:40:58",
+      "item": {
+        "id": "4c96a977-631f-4674-8a65-b35340d85758",
+        "target_type": "advisor",
+        "target_id": "王教授",
+        "reviewer": "王教授",
+        "rating": 5,
+        "comment": "长得很帅很温柔的老师",
+        "time": "2025-11-20T21:40:40",
+        "status": "pending",
+        "submitted_via": "web"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "settings": {
+    "enabled": true,
+    "frequency": "weekly",
+    "course_reminders": true,
+    "practice_reminders": true,
+    "career_reminders": true
+  },
+  "sent_reminders": [
+    {
+      "id": "stage_courses_大二",
+      "sent_at": "2025-11-25T20:40:54.358791"
+    }
+  ],
+  "dismissed_reminders": [],
+  "last_check": "2025-11-25T20:40:54.358814"
+}
